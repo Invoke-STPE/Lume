@@ -1,0 +1,19 @@
+{
+  "name": "lume",
+  "version": "1.0.0",
+  "description": "Fitness trainer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invoke-STPE/Lume.git"
+  },
+  "author": "Invoke-STPE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Invoke-STPE/Lume/issues"
+  },
+  "homepage": "https://github.com/Invoke-STPE/Lume#readme"
+}
